@@ -10,7 +10,7 @@
 <img src="https://www.anime-story.com/images/mangas/pokemonfestivalofchampions.jpg" alt="Red's profile" style="width: 1200px; height: 418px; border-radius: 50%; margin-right: 20px;" />
 <div>
 <h2 style="font-size: 24px; color: #1F2937;">Red</h2>
-<p style="color: #4B5563;">Embedded Systems Developer from India</p>
+<p style="color: #4B5563;">Student in VITC</p>
 </div>
 </div>
 <p style="margin-bottom: 20px; color: #4B5563;">HI! This is a portfolio made for fun</p>
