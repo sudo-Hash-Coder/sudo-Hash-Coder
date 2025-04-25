@@ -7,7 +7,7 @@
 
 <div style="font-family: Arial, sans-serif; color: #333;">
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img src="https://cdn.myanimelist.net/images/characters/2/421967.jpg" alt="Red's profile" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;" />
+<img src="https://www.anime-story.com/images/mangas/pokemonfestivalofchampions.jpg" alt="Red's profile" style="width: 1200px; height: 418px; border-radius: 50%; margin-right: 20px;" />
 <div>
 <h2 style="font-size: 24px; color: #1F2937;">Red</h2>
 <p style="color: #4B5563;">Embedded Systems Developer from India</p>
